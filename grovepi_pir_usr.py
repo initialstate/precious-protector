@@ -3,7 +3,6 @@ import grovepi
 from ISStreamer.Streamer import Streamer
   
 # --------- User Settings ---------
-# Connect the ultrasonic ranger sensor to one of the digital pins (i.e. 2, 3, 4, 7, or 8)
 USR_SENSOR_PIN = 4
 OBJECT_NAME = "Cookies"
 OBJECT_EMOJI_TOKEN = ":cookie:"

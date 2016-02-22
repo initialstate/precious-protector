@@ -10,7 +10,7 @@ OBJECT_EMOJI_TOKEN = ":cookie:"
 # Initial State settings
 BUCKET_NAME = OBJECT_NAME + " Log"
 BUCKET_KEY = "pir022016"
-ACCESS_KEY = "DRb9ze9iI3LATtFuAWEiRxOYwi3S4bzE"
+ACCESS_KEY = "PLACE YOUR INITIAL STATE ACCESS KEY HERE"
 # Set the time between sensor reads
 SECONDS_BETWEEN_READS = .2
 # ---------------------------------

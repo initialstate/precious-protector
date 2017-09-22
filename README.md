@@ -1,7 +1,7 @@
-#Protect Your Girl Scout Cookies with a Raspberry Pi
+# Protect Your Girl Scout Cookies with a Raspberry Pi
 ---
 
-#Introduction
+# Introduction
 
 ![Cookie Protector](https://github.com/InitialState/precious-protector/wiki/img/cookie_protector.jpg)
 
